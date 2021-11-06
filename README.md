@@ -25,7 +25,9 @@ From the plot below  there are more projects launched either in the early mornin
 ### Duration of project life:
 
 We observed from our analysis  that most projects are put on Kickstarter for about 5 weeks and almost all projects are live between 1 and 9 weeks (more than 2 months) as indicated in the figure below.
+
 ![](Fig2.png)
+
 Also, the proportion between funded  and non-funded projects varies over time: Projects with a short run time (1–7weeks) succeed relatively more often compared to projects that are launched with a medium to long run time (9  weeks). This insight could support the hypothesis that project are not more likely to funded when they live long for a long time so that the more the people have the chance to see it over time, the more likely it will succeed.  But from our current data it does not appear so.
 
 ### The pattern of Goal vs. Pledged amount
